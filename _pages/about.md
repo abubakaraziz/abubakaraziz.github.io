@@ -19,7 +19,7 @@ social: false     # includes social icons at the bottom of the page
 ---
 
 
-I am a third-year Ph.D. student at Northeastern University in Boston, where I work with <a href="https://cbw.sh/">Christo Wilson</a>. My research focuses on web privacy and algorithm auditing. Currently, I am conducting large-scale measurement studies to investigate how websites comply with emerging privacy laws, such as the California Consumer Privacy Act (CCPA).s
+I am a PhD Candidate at Northeastern University in Boston, where I work with <a href="https://cbw.sh/">Christo Wilson</a>. My research focuses on web privacy and algorithm auditing. Currently, I am conducting large-scale measurement studies to investigate how websites comply with emerging privacy laws, such as the California Consumer Privacy Act (CCPA). Moreover, I am also working as a Software Engineer at <a href="https://nationalinternetobservatory.org/">National Internet Observatory</a>.
 
 
 <!--Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
