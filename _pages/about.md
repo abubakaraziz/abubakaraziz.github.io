@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: 
-  Contact:<a href='mailto:aziz.muh@northeastern.edu'>aziz.muh@northesatern.edu</a>
+  Contact:<a href='mailto:aziz.muh@northeastern.edu'>aziz.muh@northeastern.edu</a>
 
 profile:
   align: right
