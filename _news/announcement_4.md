@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My work on Google Search’s Market Under Vertical Segmentation was presented      
+title: My work on Google Search’s Market Under Vertical Segmentation got accepted
 date: 2023--11-15
 inline: True
 ---
