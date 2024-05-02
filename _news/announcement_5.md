@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Happy to announce my paper got accepted
-date: 2024--05-01
+date: 2024-05-01
 inline: True
 ---
 

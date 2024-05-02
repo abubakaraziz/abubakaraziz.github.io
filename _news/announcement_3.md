@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My work on Google Search’s Market Under Vertical Segmentation was presented      
-date: 2023--09-28
+date: 2023-09-28
 inline: True
 ---
 
