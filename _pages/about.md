@@ -10,16 +10,17 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Northeastern University</p>
-    <p>Boston, MA 02139</p>
+    <p>Northeastern University,Boston<p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false     # includes social icons at the bottom of the page
+social: true     # includes social icons at the bottom of the page
 ---
 
 
-I am a Phd Candidate at Northeastern University in Boston, where I work with <a href="https://cbw.sh/">Christo Wilson</a>. My research focuses on web privacy and understanding human behavior online. Currently, I am investigating many different aspects of <a href ="https://developers.google.com/privacy-sandbox">Google Privacy Sandbox</a> such as the Topics API. In my previous research project, I conducted a measurement study on how well websites comply with the California Consumer Privacy Act (CCPA) with respect to the IAB CCPA Compliance Framework. Moreover, I am also working as a part-time Privacy Software Engineer at <a href="https://nationalinternetobservatory.org/">National Internet Observatory</a>.
+I am a Phd Candidate at Northeastern University in Boston, where I work with <a href="https://cbw.sh/">Christo Wilson</a>. My research focuses on web privacy and understanding human behavior online. 
+
+Currently, I am investigating many different aspects of <a href ="https://developers.google.com/privacy-sandbox">Google Privacy Sandbox</a> such as the Topics API. In my previous research project, I conducted a measurement study on how well websites comply with the California Consumer Privacy Act (CCPA) with respect to the IAB CCPA Compliance Framework. Moreover, I am also working as a part-time Privacy Software Engineer at <a href="https://nationalinternetobservatory.org/">National Internet Observatory</a>.
 
 <!--Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
