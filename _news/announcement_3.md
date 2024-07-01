@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
-inline: true
-related_posts: false
+title: My work on Google Search’s Market Under Vertical Segmentation was presented      
+date: 2023-09-28
+inline: True
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+My work on Google Search was presented at <a href="https://conferences.law.stanford.edu/tsrc/">Trust and Safety Conference</a>, Stanford.
