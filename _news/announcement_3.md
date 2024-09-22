@@ -5,4 +5,4 @@ date: 2023-09-28
 inline: True
 ---
 
-My work on Google Search was presented at <a href="https://conferences.law.stanford.edu/tsrc/">Trust and Safety Conference</a>, Stanford.
+Our work on Google Search was presented at <a href="https://conferences.law.stanford.edu/tsrc/">Trust and Safety Conference</a>, Stanford.

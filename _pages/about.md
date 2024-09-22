@@ -18,9 +18,7 @@ social: true     # includes social icons at the bottom of the page
 ---
 
 
-I am a Phd Candidate at Northeastern University in Boston, where I work with <a href="https://cbw.sh/">Christo Wilson</a>. My research focuses on web privacy and understanding human behavior online. 
-
-Currently, I am investigating many different aspects of <a href ="https://developers.google.com/privacy-sandbox">Google Privacy Sandbox</a> such as the Topics API. In my previous research project, I conducted a measurement study on how well websites comply with the California Consumer Privacy Act (CCPA) with respect to the IAB CCPA Compliance Framework. Moreover, I am also working as a part-time Privacy Software Engineer at <a href="https://nationalinternetobservatory.org/">National Internet Observatory</a>.
+I am a Phd Candidate at Northeastern University in Boston, where I work with <a href="https://cbw.sh/">Christo Wilson</a>. My research interests are in web privacy and security, web fingerprinting, and internet measurement. Moreover, I am also working as a part-time Privacy Software Engineer at <a href="https://nationalinternetobservatory.org/">National Internet Observatory</a>. My goal is to make the internet a more private and secure place.
 
 <!--Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
