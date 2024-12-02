@@ -4,7 +4,7 @@
 
 title: Abubakar Aziz #the website title (if blank, full name will be used instead)
 first_name: Abubakar
-middle_name: 
+middle_name:
 last_name: Aziz
 email: aziz313f@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -108,7 +108,6 @@ work_url: # work page URL
 x_username: aziz313f #your X handle
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
-
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -624,6 +623,5 @@ third_party_libraries:
 
 jekyll_get_json:
   - data: resume
-    json:  # it can also be an url
+    json: # it can also be an url
 jsonresume:
-  
