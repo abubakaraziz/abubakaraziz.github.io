@@ -12,7 +12,6 @@ published: true
 
 A little late in posting, but I want to reflect on 2024. It was an eventful and emotionally challenging year, bringing moments of progress and achievement in my PhD journey, as well as personal hardships that deeply affected me.
 
-
 ### PhD Progress and Milestones
 
 This year marked significant progress in my PhD at Northeastern University. There were many achievements I’m proud of:
