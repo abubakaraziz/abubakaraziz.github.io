@@ -5,7 +5,7 @@ date: 2025-01-20 16:40:16
 description: Reflecting on an eventful 2024 with milestones in my PhD journey, including research accomplishments and conference presentations, alongside personal challenges that shaped my year
 #tags: formatting links
 #categories: sample-posts
-published: true
+published: false
 ---
 
 # Reflecting on 2024
